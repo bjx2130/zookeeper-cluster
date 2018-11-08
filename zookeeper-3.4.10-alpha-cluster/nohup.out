@@ -1,0 +1,178 @@
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_0.cfg
+Starting zookeeper ... STARTED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_1.cfg
+Starting zookeeper ... STARTED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_2.cfg
+Starting zookeeper ... STARTED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_0.cfg
+Starting zookeeper ... STARTED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_1.cfg
+Starting zookeeper ... STARTED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_2.cfg
+Starting zookeeper ... ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_0.cfg
+Starting zookeeper ... STARTED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_1.cfg
+Starting zookeeper ... STARTED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_0.cfg
+Starting zookeeper ... STARTED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_1.cfg
+Starting zookeeper ... STARTED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_2.cfg
+Starting zookeeper ... STARTED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_0.cfg
+Starting zookeeper ... STARTED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_1.cfg
+Starting zookeeper ... STARTED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_2.cfg
+Starting zookeeper ... STARTED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_0.cfg
+Starting zookeeper ... STARTED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_1.cfg
+Starting zookeeper ... STARTED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_2.cfg
+Starting zookeeper ... STARTED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_0.cfg
+Starting zookeeper ... STARTED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_1.cfg
+Starting zookeeper ... STARTED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_2.cfg
+Starting zookeeper ... STARTED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_0.cfg
+Starting zookeeper ... STARTED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_1.cfg
+Starting zookeeper ... STARTED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_2.cfg
+Starting zookeeper ... STARTED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_0.cfg
+Starting zookeeper ... STARTED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_1.cfg
+Starting zookeeper ... STARTED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_2.cfg
+Starting zookeeper ... STARTED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_0.cfg
+Starting zookeeper ... STARTED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_1.cfg
+Starting zookeeper ... STARTED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_2.cfg
+Starting zookeeper ... STARTED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_0.cfg
+Error contacting service. It is probably not running.
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_1.cfg
+Error contacting service. It is probably not running.
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_2.cfg
+Error contacting service. It is probably not running.
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_0.cfg
+Stopping zookeeper ... /usr/local/zookeeper-3.4.10-alpha-cluster/zookeeper-3.4.10/bin/zkServer.sh: line 182: kill: (15921) - No such process
+STOPPED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_1.cfg
+Stopping zookeeper ... /usr/local/zookeeper-3.4.10-alpha-cluster/zookeeper-3.4.10/bin/zkServer.sh: line 182: kill: (15945) - No such process
+STOPPED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_2.cfg
+Stopping zookeeper ... STOPPED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_0.cfg
+Error contacting service. It is probably not running.
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_1.cfg
+Error contacting service. It is probably not running.
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_2.cfg
+Error contacting service. It is probably not running.
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_0.cfg
+Starting zookeeper ... STARTED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_1.cfg
+Starting zookeeper ... STARTED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_2.cfg
+Starting zookeeper ... STARTED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_0.cfg
+Stopping zookeeper ... no zookeeper to stop (could not find file /usr/local/zookeeper-3.4.10-alpha-cluster/zk_data/zk_0/zookeeper_server.pid)
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_1.cfg
+Stopping zookeeper ... no zookeeper to stop (could not find file /usr/local/zookeeper-3.4.10-alpha-cluster/zk_data/zk_1/zookeeper_server.pid)
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_2.cfg
+Stopping zookeeper ... STOPPED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_0.cfg
+Starting zookeeper ... STARTED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_1.cfg
+Starting zookeeper ... STARTED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_2.cfg
+Starting zookeeper ... STARTED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_0.cfg
+Mode: follower
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_1.cfg
+Mode: leader
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_2.cfg
+Mode: follower
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_0.cfg
+Stopping zookeeper ... STOPPED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_1.cfg
+Stopping zookeeper ... STOPPED
+ZooKeeper JMX enabled by default
+Using config: /usr/local/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_2.cfg
+Stopping zookeeper ... STOPPED
+ZooKeeper JMX enabled by default
+Using config: /home/bjx/git-zk/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_0.cfg
+Starting zookeeper ... STARTED
+ZooKeeper JMX enabled by default
+Using config: /home/bjx/git-zk/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_1.cfg
+Starting zookeeper ... STARTED
+ZooKeeper JMX enabled by default
+Using config: /home/bjx/git-zk/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_2.cfg
+Starting zookeeper ... STARTED
+ZooKeeper JMX enabled by default
+Using config: /home/bjx/git-zk/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_0.cfg
+Mode: follower
+ZooKeeper JMX enabled by default
+Using config: /home/bjx/git-zk/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_1.cfg
+Mode: follower
+ZooKeeper JMX enabled by default
+Using config: /home/bjx/git-zk/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_2.cfg
+Mode: leader
