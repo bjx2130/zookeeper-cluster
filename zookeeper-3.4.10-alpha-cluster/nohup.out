@@ -176,3 +176,6 @@ Mode: follower
 ZooKeeper JMX enabled by default
 Using config: /home/bjx/git-zk/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_2.cfg
 Mode: leader
+ZooKeeper JMX enabled by default
+Using config: /home/bjx/git-zk/zk/zookeeper-cluster/zookeeper-3.4.10-alpha-cluster/zk_config/zoo_standalone.cfg
+Starting zookeeper ... STARTED
